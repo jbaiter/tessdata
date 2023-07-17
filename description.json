@@ -1,8 +1,8 @@
 {
   "compressed": true,
   "base_urls": {
-    "fast": "https://github.com/jbaiter/tessdata/raw/gh-pages/4.0.0_fast/",
-    "best": "https://github.com/jbaiter/tessdata/raw/gh-pages/4.0.0_best/"
+    "fast": "https://raw.githubusercontent.com/jbaiter/tessdata/gh-pages/4.0.0_fast",
+    "best": "https://raw.githubusercontent.com/jbaiter/tessdata/gh-pages/4.0.0_best"
   },
   "models": {
     "afr": {
